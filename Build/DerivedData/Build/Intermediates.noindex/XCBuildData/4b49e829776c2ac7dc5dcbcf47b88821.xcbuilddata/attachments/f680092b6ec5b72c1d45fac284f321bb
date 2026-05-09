@@ -1,0 +1,41 @@
+{
+  "" : {
+    "const-values" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIP-primary.swiftconstvalues",
+    "dependencies" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIP-primary.d",
+    "diagnostics" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIP-primary.dia",
+    "emit-module-dependencies" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIP-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIP-primary-emit-module.dia",
+    "pch" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIP-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIP-primary.swiftdeps"
+  },
+  "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Sources/AppModel.swift" : {
+    "index-unit-output-path" : "/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/AppModel.o",
+    "llvm-bc" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/AppModel.bc",
+    "object" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/AppModel.o"
+  },
+  "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Sources/ContentView.swift" : {
+    "index-unit-output-path" : "/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/ContentView.o"
+  },
+  "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Sources/HistoryStore.swift" : {
+    "index-unit-output-path" : "/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/HistoryStore.o",
+    "llvm-bc" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/HistoryStore.bc",
+    "object" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/HistoryStore.o"
+  },
+  "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Sources/MUZIPApp.swift" : {
+    "index-unit-output-path" : "/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIPApp.o",
+    "llvm-bc" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIPApp.bc",
+    "object" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIPApp.o"
+  },
+  "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Sources/Models.swift" : {
+    "index-unit-output-path" : "/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/Models.o"
+  },
+  "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Sources/ZipCompressionEngine.swift" : {
+    "index-unit-output-path" : "/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/ZipCompressionEngine.o",
+    "llvm-bc" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/ZipCompressionEngine.bc",
+    "object" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/ZipCompressionEngine.o"
+  }
+}

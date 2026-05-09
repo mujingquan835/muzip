@@ -1,0 +1,65 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "319af9d2f5f76e1b1fbe5bc6ab1e554b10b9aaf76e3f41537915059c539d81ab"
+    }
+  ],
+  "containerPath" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/MUZIP.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "hostTargetedPlatform" : null,
+      "platform" : "macosx",
+      "sdk" : "macosx26.4",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/.build/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/.build/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/.build/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/.build/DerivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/.build/DerivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/.build/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGNING_ALLOWED" : "NO"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

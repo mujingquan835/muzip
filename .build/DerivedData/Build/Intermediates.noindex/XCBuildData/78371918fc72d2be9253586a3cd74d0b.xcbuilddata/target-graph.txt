@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'MUZIP' in project 'MUZIP'
+➜ Explicit dependency on target 'MUZIPFinderExtension' in project 'MUZIP'
+Target 'MUZIPFinderExtension' in project 'MUZIP' (no dependencies)

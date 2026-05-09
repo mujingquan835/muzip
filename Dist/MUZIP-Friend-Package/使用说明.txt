@@ -1,0 +1,17 @@
+MUZIP 安装说明
+
+1. 双击“安装 MUZIP.command”。
+2. 如果 macOS 提示脚本或应用来自未知开发者，请在“系统设置 -> 隐私与安全性”里允许打开，或者按住 Control 再点脚本选择“打开”。
+3. 安装完成后，MUZIP 会放到 /Applications/MUZIP.app。
+4. 在 Finder 里选中文件或文件夹，右键选择“使用 MUZIP 压缩”。
+5. 压缩包会输出到“下载”文件夹，文件名格式为“原名称-YYYY-MM-DD.zip”。
+
+如果右键菜单没有立刻出现：
+
+1. 先打开一次 /Applications/MUZIP.app。
+2. 关闭并重新打开 Finder。
+3. 如果还不出现，注销当前 macOS 账号再登录一次。
+
+卸载：
+
+双击“卸载 MUZIP.command”。

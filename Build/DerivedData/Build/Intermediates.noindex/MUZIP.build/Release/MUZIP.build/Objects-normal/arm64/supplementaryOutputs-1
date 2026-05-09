@@ -1,0 +1,12 @@
+{
+  "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Sources/AppModel.swift" : {
+    "abi-baseline-json" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIP.abi.json",
+    "const-values" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIP-primary.swiftconstvalues",
+    "dependencies" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIP-primary.d",
+    "diagnostics" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIP-primary.dia",
+    "objc-header" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIP-Swift.h",
+    "swiftdoc" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIP.swiftdoc",
+    "swiftmodule" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIP.swiftmodule",
+    "swiftsourceinfo" : "/Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Build/DerivedData/Build/Intermediates.noindex/MUZIP.build/Release/MUZIP.build/Objects-normal/arm64/MUZIP.swiftsourceinfo"
+  }
+}

@@ -1,0 +1,1 @@
+操作“运行Shell脚本”遇到了错误：/bin/zsh: can't open input file: /Users/meimaodawang/Documents/Codex/2026-04-24-minizip-minizip-macos-zip-zip-zip/Scripts/muzip-quick-action.sh
