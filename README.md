@@ -3,6 +3,7 @@ MUZIP — 为 Windows 用户提供一个干净的 ZIP
 使用appstore的压缩软件都会让你收费，而且功能太多，macOS自带的解压软件就很好用，其实只是差一个打包软件剔除掉macOS的压缩垃圾软件；
 muzip就可以解决这个问题，同时提供右键压缩功能，方便无感知，免费解决各位打工人的困扰；
 使用 macOS 自带的压缩包，Windows 用户打开一看：__MACOSX、.DS_Store……每次都要解释一遍“那是系统文件，不是病毒”。
+终端输入“brew install --cask mujingquan835/muzip/muzip” 即可完成安装，安装完后先打开一遍，会自动注册右键功能，即可使用
 
 MUZIP就是来解决这个问题的。
 <img width="1774" height="887" alt="ChatGPT Image 2026年5月8日 17_46_09" src="https://github.com/user-attachments/assets/24328adb-ae93-40d9-bd93-76b47b8249bf" />
